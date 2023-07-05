@@ -1,6 +1,7 @@
 # antipub-spotify
 
 Hey, tu en a marres des pubs Spotify ? 👋
+
 Il te suffit juste de faire une commande dans un PowerShell, tous simplement, sa néccesite aucune competences, juste savoir ctrl c + ctrl v !
 
 ⚠ Il faut savoir que cette commande ne vient pas de moi. ⚠
