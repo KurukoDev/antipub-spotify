@@ -15,5 +15,6 @@ Exemple :
 
 Voulez-vous désactiver les podcasts, épisodes et livres audio de la page d'accueil ? [Y/N]: 
 ```Vous devez répondre : Y```
+
 Voulez-vous bloquer les MàJ Spotify ? [Y/N]:
 ```Vous devez répondre : Y```
