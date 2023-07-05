@@ -10,6 +10,7 @@ Il te suffit juste de faire une commande dans un PowerShell, tous simplement, sa
 2. Vous copiez cette commande : ```[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -new_theme"```
 3. Vous allez dans le PowerShell et vous coller cette commande
 4. Laissez faire le PowerShell tous seul, il va vous mettre différentes questions.
+5. Dès que ce message est afficher, laisser faire et ne bouger plus : ```Modification de Spotify...```
 
 Exemple : 
 
