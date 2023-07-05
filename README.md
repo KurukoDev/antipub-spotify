@@ -1,4 +1,4 @@
-# antipub-spotify
+# Anti-Pub Spotify
 
 Salut, tu en as marres des pubs Spotify ? 👋
 
